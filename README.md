@@ -86,3 +86,4 @@ mvn test
 - [Spring Boot](https://spring.io/projects/spring-boot) - Framework for building Java-based enterprise applications.
 - [Maven](https://maven.apache.org/) - Dependency management and build tool.
 - [JUnit](https://junit.org/junit5/) - Testing framework.
+- [Mockito](https://site.mockito.org/) - Mocking framework for unit tests.
